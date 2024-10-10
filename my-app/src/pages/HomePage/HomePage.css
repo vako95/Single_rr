@@ -1,0 +1,11 @@
+.home-page{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+table, th, td {
+    border: 1px solid black;
+  }
